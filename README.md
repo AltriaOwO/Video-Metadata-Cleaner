@@ -2,6 +2,8 @@
 
 **Video Metadata Cleaner** is a lightweight macOS application designed to remove metadata from video files. It provides a simple drag-and-drop interface, allowing users to clean video files effortlessly while preserving the original quality.
 
+This application is **exclusively built for macOS on ARM architecture**, ensuring optimal performance on Apple Silicon Macs. It removes metadata in an **elegant and fast manner**, helping users protect their privacy without compromising video integrity.
+
 ## ✨ Features
 - 🖥 **Native macOS App** – Built with SwiftUI, providing a smooth and intuitive user experience.
 - 🛠 **Built-in FFmpeg** – No need to install FFmpeg separately; the app includes it for seamless processing.
